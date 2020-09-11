@@ -126,7 +126,7 @@
 </style>
 
 <svelte:head>
-  <title>All Meetups</title>
+  <title>Meetup</title>
 </svelte:head>
 
 {#if editMode === 'edit'}
